@@ -1,0 +1,10 @@
+E:\C#\Sudoku\bin\Debug\Soduku.exe.config
+E:\C#\Sudoku\bin\Debug\Soduku.exe
+E:\C#\Sudoku\obj\Debug\Sudoku.csproj.AssemblyReference.cache
+E:\C#\Sudoku\obj\Debug\Sudoku.Run.resources
+E:\C#\Sudoku\obj\Debug\Soduku.Properties.Resources.resources
+E:\C#\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.cache
+E:\C#\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+E:\C#\Sudoku\obj\Debug\Soduku.exe
+E:\C#\Sudoku\obj\Debug\Soduku.pdb
+E:\C#\Sudoku\bin\Debug\Soduku.pdb
